@@ -8,16 +8,16 @@ Name: Keith Ryu
 # I ____________  at ____________________.
 # I like ________________________________.
 
-I: 
-at: 
-I like: 
+I: am the cofounder 
+at: Onvard
+I like: rails dev and startups.
 
 # Add your twitter handle to display your most 
 # recent tweet and link to your twitter account.
 # Your twitter account is the only contact information 
 # visible to the public.
 
-Twitter: 
+Twitter: kibaekr
 
 # Enter your Google+ id number to add an author meta tag to your posts.
 # Why? It allows Google to put your Google+ photo next to search results,
@@ -34,7 +34,7 @@ Google+:
 # and then create a CNAME record with your DNS provider 
 # pointing to coderbase.herokuapp.com
 
-Domain:
+Domain: 
 
 # You have the option to customize what you want to show on your main page.
 # By default the posts tab is selected. You can input:
