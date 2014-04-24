@@ -1,0 +1,44 @@
+# Your name to be displayed on your profile
+
+Name: Keith Ryu
+
+# The following three options specify
+# a madlibs-style description of yourself
+# that is always visible in the sidebar.
+# I ____________  at ____________________.
+# I like ________________________________.
+
+I: 
+at: 
+I like: 
+
+# Add your twitter handle to display your most 
+# recent tweet and link to your twitter account.
+# Your twitter account is the only contact information 
+# visible to the public.
+
+Twitter: 
+
+# Enter your Google+ id number to add an author meta tag to your posts.
+# Why? It allows Google to put your Google+ photo next to search results,
+# and generally ranks your posts higher on Google.
+# https://plus.google.com/authorship
+
+# Make sure to log in to Google+ and add 'www.coderbase.io' as a domain that
+# you contribute to, or it won't work.
+
+Google+:
+
+# Want your Coderbase.io profile to resolve on your own domain?
+# Enter your domain here e.g. mydomain.net or www.mydomain.net
+# and then create a CNAME record with your DNS provider 
+# pointing to coderbase.herokuapp.com
+
+Domain:
+
+# You have the option to customize what you want to show on your main page.
+# By default the posts tab is selected. You can input:
+# 'posts', 'projects', or 'about'
+
+Homepage: posts
+
